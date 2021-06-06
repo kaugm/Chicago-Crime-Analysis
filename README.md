@@ -13,7 +13,7 @@ This project was broken down into 4 discrete steps:
 4. Recommending a course of action based on insights gained from the visualization to the Chicago PD (This didn't actually happen, it was a mock presentation to the class)
 <br><br>
 
-### Visualizations (Tableau Dashboards that are interactive, so some data is cut off)
+### Visualizations (Tableau Dashboards that are interactive, so some graphics are cut off)
 #### Chicago Crime Overview 2015-2017
 ![Tableau img crime overview](Tableau_Overview.png)
 
