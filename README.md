@@ -24,7 +24,7 @@ This project was broken down into 4 discrete steps:
 **Districts Exceeding the Monthly Average** → Likewise, this same analysis was conducted with the districts of Chicago to discover which districts should be considered more dangerous.
 
 **Where Crimes Exceeding the Monthly Average are Most Likely to Occur** → I took the crimes that exceeded the monthly average and overlaid their average GPS coordinates on a map of Chicago, also overlaid with colors representing mean household income. Right off the bat, we can see that these *common crimes* usually occur in areas that are well below the income of the wealthiest areas of the city, but also surprisingly don't occur in the poorest areas of the city. With this visualization, you can see that these crimes *usually* occur in different areas than others, begging the question: Why? What is different about one district of Chicago that leads to (for example) more narcotics arrests than others? Is there some different type of policing (or just more of it) in this specific area to address this type of crime. 
-<br>
+<br><br>
 
 #### Chicago Crime Locations 2015-2017
 ![Tableau img crime locations](Tableau_Location.png)
@@ -34,15 +34,17 @@ This project was broken down into 4 discrete steps:
 **Districts with 10k+ Incidents** → This is self explainatory, we can see the names of the districts with the most crime. (given over 10k incidents per month)
 
 **Average Location of Crime per Type** → Similar to the visualization in the first dashboard above, we can see the average location (via GPS) of each type of crime. This includes all crimes, not just the ones exceeding the monthly average. The first, most obvious insight here is that we can clearly see the most dangerous area of Chicago quite clearly. But also we can ask, *What is pulling the average location of **Public Indecency** to the Near North Side area?* We need to dig into the data a little more, especially since rates of Public Indecency exceed the monthly average! (see first visualization)
-<br>
+<br><br>
 
 #### Chicago Crime Trends 2015-2017
 ![Tableau img crime trends](Tableau_Trends.png)
 
 **This isn't the most beautiful dashboard due to lack of space, but it provides a lot of valuable insight into crime trends.**
+
 **Districts with Greatest Changes** → This, I think, is the most valuable graph regarding districts in Chicago and their crime rates. While it only includes those with the greatest changes (only 11), we get some valuable insights. A lot of typically dangerous districts are actually experiencing a decrease in crime, overall. Great! But, we might need to take a look at what is happening in the districts of *Central* and *Near North*.  While both these districts do not exceed the month average yet (see first visualization), they have experienced a steep increase from 2015 to 2016, and again to 2017, despite the fact that overall crime levels are down in 2017 from a high in 2016.
 **Crimes with Greatest Seasonality** → Here we can see 6 crimes that have the greatest seasonality, or variation over the course of the year. A notable trend in *Theft*, *Criminal Damage*, and *Battery* is the significant increase during the summer time. Does this happen because more people are more active as it gets warmer in the City? Additionally, it is interesting that there is a drop in these crimes early in the year, around February or March. *Why is that?* Is it the cold and snow of winter or something else? Additionally analysis comparing crime rates, daily temperature, and snowfall is required for me to prove this hypothesis.
 **Weekly Trends in Most Common Crime Types** → This is another intersting graph, in that we can see how the occurrance of the most common crime types varies over the course of the week. It seems that most of these crimes follow a general pattern of increaing over during the weekdays, but falling during the weekends. This makes sense for some crimes, such as *Burglary*, as you would expect homeowners to be at work their their residences empty. Others such as *Battery* and *Criminal Damages* follow the opposite trend: falling sharply during the week, but increasing on the weekend. Could this be a result Alcohol intake on the weekends leading to reckless actions? More analysis is required to find out.
-**Hourly Trends in Most Common Crime Types** → 
+**Hourly Trends in Most Common Crime Types** → Another very interesting graphic which can help us understand what police should be looking for during their shift. Now, it is also important to note that this data, again, represents arrests, which could or could not occur as the crime is taking place; potentially an hour or 6 afterwards, leading to some bluriness in our data. Overall, however, we can see that the early morning hours are the least active for criminals in Chicago, and their activity generally increases as the day goes on. Falling into this trend is *Burglary*, meaning Chicagoans can be confident that someone will *most likely not* break into their residence while they are sleeping; but rather when they are away at work.
+
 
 
