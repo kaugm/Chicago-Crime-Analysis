@@ -51,3 +51,4 @@ This project was broken down into 4 discrete steps:
 
 **Data Analysis Tools** → MS Excel, MS Access, SQL
 **Data Visualization Tools** → Tableau
+**Soft Skills and Critical Thinking** → Public Speaking, Interpreting Visualizations & Data
