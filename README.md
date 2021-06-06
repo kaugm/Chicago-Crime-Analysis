@@ -47,4 +47,7 @@ This project was broken down into 4 discrete steps:
 **Hourly Trends in Most Common Crime Types** → Another very interesting graphic which can help us understand what police should be looking for during their shift. Now, it is also important to note that this data, again, represents arrests, which could or could not occur as the crime is taking place; potentially an hour or 6 afterwards, leading to some bluriness in our data. Overall, however, we can see that the early morning hours are the least active for criminals in Chicago, and their activity generally increases as the day goes on. Falling into this trend is *Burglary*, meaning Chicagoans can be confident that someone will *most likely not* break into their residence while they are sleeping; but rather when they are away at work.
 
 
+### What I Learned
 
+**Data Analysis Tools** → MS Excel, MS Access, SQL
+**Data Visualization Tools** → Tableau
