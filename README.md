@@ -3,7 +3,8 @@ Data analysis project to discover insights and trends of crime in Chicago - (201
 
 
 ### About
-This was a project I did while in the Business Data Analysis (BUS443) course. The purpose of this data analysis project was to take the skills I had learned during lecture and apply them to a real world problem - crime in Chicago and how to best address the issue. The data used in this project was downloaded from the [City of Chicago Crime Catalog](https://www.chicago.gov/city/en/dataset/crime.html), and contained over 800,000 distinct incidents over 17 years, from 2000 to 2017. After analysis, visualizations were made in Tableau and added to a 3 page storyboard used to communicate findings.
+This was a project I did while in the Business Data Analysis (BUS443) course. The purpose of this data analysis project was to take the skills I had learned during lecture and apply them to a real world problem - crime in Chicago and how to best address the issue. The data used in this project was downloaded from the [City of Chicago Crime Catalog](https://www.chicago.gov/city/en/dataset/crime.html), and contained over 800,000 distinct incidents over 17 years, from 2000 to 2017. After analysis, visualizations were made in Tableau and added to a 3 page storyboard used to communicate findings.\
+**NOTE:** The visuals are screenshots of Tableau Dashboards that were meant to be interactive and move. As screenshots they do not have this feature. Additionally we were required to have 3-4 visuals per board, so they *might* be a little packed.
 
 ### Process
 This project was broken down into 4 discrete steps:
@@ -13,7 +14,7 @@ This project was broken down into 4 discrete steps:
 4. Recommending a course of action based on insights gained from the visualization to the Chicago PD (This didn't actually happen, it was a mock presentation to the class)
 <br><br>
 
-### Visualizations (Tableau Dashboards that are interactive, so some graphics are cut off)
+### Visualizations
 #### Chicago Crime Overview 2015-2017
 ![Tableau img crime overview](Tableau_Overview.png)
 
